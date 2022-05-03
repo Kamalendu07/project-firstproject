@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(190, 186, 187);
+}
+h1{
+    color: blue;
+    text-align: center;
+}
+hr{
+    height: 2px;
+    color: black;
+}
+
+.name{
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+}
+.address{
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: green;
+}
+
+.t{
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+}
+.c{
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue
+
+}
+.p{
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:yellowgreen
+}

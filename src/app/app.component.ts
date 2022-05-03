@@ -6,5 +6,30 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'project';
+  title = 'firsproject';
+  ename="Kamal";
+  address="Kolkata";
+
+  display()
+  {
+    alert("Welcome to CG Angular Course!!!");
+  }
+  products: any=[
+
+    {
+      title:"LED Tv",
+      company:"Sony",
+      price:40000
+    },
+    {
+      title:"Mobile",
+      company:"Samsung",
+      price:20000
+    },
+    {
+      title:"Freeze",
+      company:"LG",
+      price:45000
+    }
+  ]
 }
